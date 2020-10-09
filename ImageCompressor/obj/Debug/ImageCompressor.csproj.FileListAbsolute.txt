@@ -1,0 +1,7 @@
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+E:\Faridun's Projects\Faridun's\Back-End\Console\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
